@@ -1,0 +1,1 @@
+# tp-real-estate-manager-wordpress-plugin
